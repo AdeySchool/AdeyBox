@@ -3,4 +3,4 @@
 
 # 工具使用：
 [工具1]：IPscan：
-python IPscan IP
+> python IPscan.py  IP
